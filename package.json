@@ -1,0 +1,25 @@
+{
+  "name": "next-door",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@xstate/inspect": "^0.4.1",
+    "@xstate/react": "^1.5.1",
+    "mongoose": "^5.13.5",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-map-gl": "^6.1.16",
+    "xstate": "^4.23.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
