@@ -2,11 +2,11 @@
 
 ![Next Door](https://res.cloudinary.com/fghurayri/image/upload/v1628986966/faisal.sh/geospatial-apps-primitives/next-door-app.jpg)
 
-An example application built for my post - [How to Build Geospatial Apps](https://faisal.sh/posts/how-to-build-geospatial-apps)
+An example application built for my post - [How to Build Geospatial Apps](https://faisal.sh/posts/how-to-build-geospatial-apps). If you are interested to learn more about how I used xState in a step-by-step guide, check my other post - [Taming Complex UIs with State Machines and Pure Views](https://faisal.sh/posts/taming-complex-uis-with-state-machines-and-pure-views)
 
 ## Folder Structure
 
-The following is an overview of my opinionated folder structure.
+The following is an overview of my opinionated folder structure. I think it provides the best separation between frontend and backend code.
 
 ```bash
 .
